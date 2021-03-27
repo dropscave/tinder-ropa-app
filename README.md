@@ -1,3 +1,31 @@
+# Tinder for clothes
+
+Tinder for clothes, is an application in which you can publish all the articles that you do not use, as well as find articles in which you may be interested.
+
+As easy as giving like or super like to a garment. If the other person is interested, they can start chatting on WhatsApp through the notification that you will receive, in order to begin the exchange process.
+
+## SCRUM ROLES
+
+### SCRUM MASTER
+
+Julian Antonio Candiani Velez
+
+### TEAM
+
+Student 1
+
+Skills:
+- Figma
+- HTML and CSS
+- Javascript (React Basic)
+
+Student 2
+
+Skills:
+- HTML and CSS
+- Javascript (React advanced and Jest)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
